@@ -7,3 +7,12 @@ A recommended GTK theme to be used along with Omnix is the [Numix](https://githu
 <p align="center">
   <img src="./assets/omnix-theme-ss.png" />
 </p>
+
+## Installation
+
+Using your terminal, go to the downloaded dir (e.g. `$ cd ~/Downloads/omnix-theme`) and then run `make` command:
+```sh
+$ make
+```
+
+It will install the theme in your `~/.themes/` dir.
